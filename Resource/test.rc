@@ -1,0 +1,9 @@
+1 24 "WindowsXP.Manifest"
+
+ICON1     ICON  "icons/fivetech.ico"
+LENTE     BITMAP "grid/lente.bmp"
+SEARCH    BITMAP "grid/search.bmp"
+MENU16    BITMAP "grid/menu2.bmp"
+
+
+
